@@ -64,8 +64,6 @@ class About extends Me {
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=digmen&theme=dark&hide_border=true" alt="GitHub Streak"/> 
   <br/> <img src="https://github-readme-stats.vercel.app/api?username=digmen&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
 </div>  
-<div align="center"> <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/coding.gif" width="1000" height="400"/>
-</div>
 
 
 
