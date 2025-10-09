@@ -37,9 +37,7 @@
 ---
 
 ## 👨‍💻 About Me
-Frontend-разработчик с **2-летним коммерческим опытом**.  
-Создаю **веб-приложения и мобильные приложения** на React и React Native / Expo.  
-
+I'm a Frontend Developer with 2 years of commercial experience, specializing in creating modern web and mobile applications using React and React Native / Expo.
 **Short in English:**  
 I’m a **Frontend Developer** focused on building modern, high-performance web and mobile apps.  
 I love working with **Next.js, Vue, and Tailwind CSS**, and I’m passionate about **clean UI & automation**.
@@ -66,7 +64,7 @@ class About extends Me {
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=dark&hide_border=true" alt="GitHub Streak"/> 
   <br/> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
 </div>  
-<div align="center"> <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/coding.gif" width="100%" height="400"/>
+<div align="center"> <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/coding.gif" width="1000" height="400"/>
 </div>
 
 
