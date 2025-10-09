@@ -1,64 +1,73 @@
-<!-- HEADER -->
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWFhN2xodHUxNzFramhvY29xdzBjZjlnZWNmYmI3azgyYXFqeXd1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7Z49eulwv4aGY35RaD/giphy.gif" width="120"/>
-  <h1 align="center">hey there 👋</h1>
-  <h3 align="center">I'm a passionate Frontend Developer from Kyrgyzstan 🇰🇬</h3>
+  <h1 align="center">Hey there 👋</h1>
+  <p align="center">
+  <em>Frontend / React Native Developer</em>  
+<p align="center">🎧 Vibing to:</p>
+<p align="center">
+  <a href="https://open.spotify.com/"><img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify now playing" width="320"/></a>
+</p>
+  <p align="center">Open for remote, part-time & full-time opportunities 🌍</p>
 </div>
+</p>
 
-<!-- SOCIAL BADGES -->
-<div id="badges" align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://youtube.com/@yourchannel">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://obsidian.md/">
-    <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?&style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian Badge"/>
-  </a>
-</div>
 
----
-
-<!-- ABOUT ME -->
-### 👨‍💻 About Me :
-I’m a **Frontend Developer** focused on creating modern, high-performance web apps.  
-I love working with **Next.js, Vue, and Tailwind CSS**, and I'm passionate about **clean UI & automation**.
-
-- 🔭 Currently working on: `Dekakim` & `Zahalal`
-- 🌱 Learning: **Nuxt 3 & SEO optimization**
-- ⚡ Fun fact: I design and develop my own UI kits
-
----
-
-<!-- TOOLS -->
-### 🛠️ Languages and Tools :
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-</div>
-
----
-
-<!-- STATS -->
-### 📊 GitHub Stats :
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=dark&hide_border=true" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
+  <a href="https://t.me/johny_frontend">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://instagram.com/your_instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:digmen68@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nuxt-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 </div>
 
 ---
 
-<!-- FOOTER IMAGE -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/coding.gif" width="600" height="300"/>
+## 👨‍💻 About Me
+Frontend-разработчик с **2-летним коммерческим опытом**.  
+Создаю **веб-приложения и мобильные приложения** на React и React Native / Expo.  
+
+**Short in English:**  
+I’m a **Frontend Developer** focused on building modern, high-performance web and mobile apps.  
+I love working with **Next.js, Vue, and Tailwind CSS**, and I’m passionate about **clean UI & automation**.
+
+- 🌱 Learning: **Next JS , SEO optimization & SSR**  
+- 💼 Looking for: **Frontend / React Native / Vue / Next / React**  
+- 🌍 Location: **Kyrgyzstan** (remote worldwide)  
+- ✉️ Contact: [@johny_frontend](https://t.me/johny_frontend) | [digmen68@gmail.com](mailto:digmen68@gmail.com)
+
+
+### 🧩 Organized Tech Stack
+```js
+class About extends Me {
+  const myTools = {
+    ProgrammingLanguages: ["JavaScript", "TypeScript", "HTML", "CSS"],
+    Frameworks: ["React", "React Native / Expo", "Next.js", "Vue 3", "Nuxt"],
+    Styling: ["Tailwind CSS"],
+    Tools: ["Git", "VSCode", "Docker"],
+    Learning: ["Nuxt 3", "SEO Optimization"]
+  };
+}
+```
+
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=dark&hide_border=true" alt="GitHub Streak"/> 
+  <br/> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
+</div>  
+<div align="center"> <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/coding.gif" width="600" height="300"/>
 </div>
+
+
+
