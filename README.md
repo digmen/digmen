@@ -21,7 +21,7 @@
   <a href="mailto:digmen68@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.upwork.com/freelancers/~yourprofile" target="_blank" rel="noopener">
+  <a href="https://www.upwork.com/freelancers/~01306c9da7c2af44c1" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
 </a>
 
