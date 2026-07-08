@@ -132,18 +132,18 @@ const johny: FullStackDeveloper = {
 
 <div align="center">
   <a href="https://github.com/digmen/repo-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=digmen&repo=repo-1&theme=tokyonight&hide_border=true" alt="Проект 1"/>
+    <img src="https://github-readme-stats-ixr9.vercel.app/api/pin/?username=digmen&repo=repo-1&theme=tokyonight&hide_border=true" alt="Проект 1"/>
   </a>
   <a href="https://github.com/digmen/repo-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=digmen&repo=repo-2&theme=tokyonight&hide_border=true" alt="Проект 2"/>
+    <img src="https://github-readme-stats-ixr9.vercel.app/api/pin/?username=digmen&repo=repo-2&theme=tokyonight&hide_border=true" alt="Проект 2"/>
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/digmen/repo-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=digmen&repo=repo-3&theme=tokyonight&hide_border=true" alt="Проект 3"/>
+    <img src="https://github-readme-stats-ixr9.vercel.app/api/pin/?username=digmen&repo=repo-3&theme=tokyonight&hide_border=true" alt="Проект 3"/>
   </a>
   <a href="https://github.com/digmen/repo-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=digmen&repo=repo-4&theme=tokyonight&hide_border=true" alt="Проект 4"/>
+    <img src="https://github-readme-stats-ixr9.vercel.app/api/pin/?username=digmen&repo=repo-4&theme=tokyonight&hide_border=true" alt="Проект 4"/>
   </a>
 </div>
 -->
@@ -155,8 +155,8 @@ const johny: FullStackDeveloper = {
 ## 📊 Статистика GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=digmen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=ru" alt="Статистика"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digmen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=ru" alt="Топ языков"/>
+  <img height="165" src="https://github-readme-stats-ixr9.vercel.app/api?username=digmen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=ru" alt="Статистика"/>
+  <img height="165" src="https://github-readme-stats-ixr9.vercel.app/api/top-langs/?username=digmen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=ru" alt="Топ языков"/>
 </div>
 
 <div align="center">
