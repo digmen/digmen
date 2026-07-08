@@ -134,6 +134,10 @@ const johny: FullStackDeveloper = {
   <img src="https://streak-stats.demolab.com/?user=digmen&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=digmen&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=14A800&line=14A800&point=ffffff&area=true" alt="Activity graph"/>
+</div>
+
 ---
 
 <div align="center">
