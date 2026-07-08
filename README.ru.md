@@ -123,35 +123,6 @@ const johny: FullStackDeveloper = {
 
 ---
 
-## 🚀 Избранные проекты
-
-<!--
-  👉 ЧТОБЫ ВКЛЮЧИТЬ: замени repo-1 … repo-4 на реальные имена репозиториев,
-  затем удали эту обёртку-комментарий (строки с <!-​- и -​->).
-  Пока реальных имён нет, карточки рендерятся как битые картинки — поэтому скрыты.
-
-<div align="center">
-  <a href="https://github.com/digmen/repo-1">
-    <img src="https://github-readme-stats-ixr9.vercel.app/api/pin/?username=digmen&repo=repo-1&theme=tokyonight&hide_border=true" alt="Проект 1"/>
-  </a>
-  <a href="https://github.com/digmen/repo-2">
-    <img src="https://github-readme-stats-ixr9.vercel.app/api/pin/?username=digmen&repo=repo-2&theme=tokyonight&hide_border=true" alt="Проект 2"/>
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/digmen/repo-3">
-    <img src="https://github-readme-stats-ixr9.vercel.app/api/pin/?username=digmen&repo=repo-3&theme=tokyonight&hide_border=true" alt="Проект 3"/>
-  </a>
-  <a href="https://github.com/digmen/repo-4">
-    <img src="https://github-readme-stats-ixr9.vercel.app/api/pin/?username=digmen&repo=repo-4&theme=tokyonight&hide_border=true" alt="Проект 4"/>
-  </a>
-</div>
--->
-
-> ⚙️ _Скоро — здесь появятся карточки проектов._
-
----
-
 ## 📊 Статистика GitHub
 
 <div align="center">
@@ -161,10 +132,6 @@ const johny: FullStackDeveloper = {
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=digmen&theme=tokyonight&hide_border=true&locale=ru" alt="Стрик GitHub"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=digmen&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Трофеи"/>
 </div>
 
 ---
