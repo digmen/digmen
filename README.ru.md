@@ -125,7 +125,11 @@ const johny: FullStackDeveloper = {
 
 ## 🚀 Избранные проекты
 
-<!-- Замени repo-1 … repo-4 на реальные названия твоих репозиториев -->
+<!--
+  👉 ЧТОБЫ ВКЛЮЧИТЬ: замени repo-1 … repo-4 на реальные имена репозиториев,
+  затем удали эту обёртку-комментарий (строки с <!-​- и -​->).
+  Пока реальных имён нет, карточки рендерятся как битые картинки — поэтому скрыты.
+
 <div align="center">
   <a href="https://github.com/digmen/repo-1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=digmen&repo=repo-1&theme=tokyonight&hide_border=true" alt="Проект 1"/>
@@ -142,6 +146,9 @@ const johny: FullStackDeveloper = {
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=digmen&repo=repo-4&theme=tokyonight&hide_border=true" alt="Проект 4"/>
   </a>
 </div>
+-->
+
+> ⚙️ _Скоро — здесь появятся карточки проектов._
 
 ---
 
