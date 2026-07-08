@@ -4,7 +4,7 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=14A800&center=true&vCenter=true&width=600&lines=Привет!+Я+Johny+%F0%9F%91%8B;Full-Stack+разработчик;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;Создаю+веб+и+мобильные+приложения" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=14A800&center=true&vCenter=true&width=600&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%21%20%D0%AF%20Johny%20%F0%9F%91%8B;Full-Stack%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;React%20%7C%20Next.js%20%7C%20Node.js%20%7C%20NestJS;%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E%20%D0%B2%D0%B5%D0%B1%20%D0%B8%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F" alt="Typing SVG" />
 </div>
 
 <div align="center">
