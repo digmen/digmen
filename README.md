@@ -1,170 +1,141 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    HEADER · WAVING BANNER                      ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<div align="right">
+  <a href="./README.md"><img src="https://img.shields.io/badge/English-14A800?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English"/></a>
+  <a href="./README.ru.md"><img src="https://img.shields.io/badge/Русский-555?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Русский"/></a>
+</div>
 
-<a href="https://github.com/digmen">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0B6E2E,100:14A800&height=220&section=header&text=Johny&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20·%20Frontend%20%26%20Node.js&descSize=20&descAlignY=60&animation=fadeIn" alt="header"/>
-</a>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=700&color=14A800&center=true&vCenter=true&width=680&lines=I+turn+ideas+into+products+%E2%80%94+UI+to+API;React+%C2%B7+Next.js+%C2%B7+React+Native+%C2%B7+Vue;Node.js+%C2%B7+NestJS+%C2%B7+Prisma+%C2%B7+PostgreSQL;Clean+code%2C+pixel-perfect+UI%2C+shipped+fast+%F0%9F%9A%80" alt="typing"/>
+<div id="header" align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=14A800&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Johny+%F0%9F%91%8B;Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;Building+modern+web+%26+mobile+apps" alt="Typing SVG" />
 </div>
 
 <div align="center">
+  <p><em>Full-Stack Developer — Frontend & Node.js Backend</em></p>
+  <p>🚀 I build modern, high-performance web & mobile applications end-to-end.</p>
+  <p>Open for remote, part-time & full-time opportunities 🌍</p>
+</div>
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/johny_fullstack_dev)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:digmen68@gmail.com)
-[![Upwork](https://img.shields.io/badge/Upwork-14A800?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01306c9da7c2af44c1?mp_source=share)
-![Profile views](https://komarev.com/ghpvc/?username=digmen&style=flat-square&color=14A800&label=Profile+views)
-![Location](https://img.shields.io/badge/📍-Kyrgyzstan_·_Remote_worldwide-0D1117?style=flat-square)
+<p align="center">🎧 Vibing to:</p>
+<p align="center">
+  <a href="https://open.spotify.com/"><img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify now playing" width="320"/></a>
+</p>
 
+<div align="center">
+  <a href="https://t.me/johny_fullstack_dev">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://instagram.com/your_instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:digmen68@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01306c9da7c2af44c1?mp_source=share" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
+  </a>
 </div>
 
 <br/>
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                      ABOUT · TWO COLUMNS                       ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=digmen&style=for-the-badge&color=14A800" alt="Profile views"/>
+</div>
 
-<table>
-<tr>
-<td width="58%" valign="top">
+---
 
-### 👋 About me
+## 👨‍💻 About Me
 
-I'm a **Full-Stack Developer** who ships products end-to-end —
-from **pixel-perfect, accessible UI** on the frontend to
-**robust, well-typed APIs** on the backend with **Node.js / NestJS**.
+I'm a **Full-Stack Developer** who takes products from idea to production — crafting clean, responsive UIs on the frontend and building robust, scalable APIs on the backend with **Node.js / NestJS**.
 
-I care about **clean architecture**, **DX**, and shipping things
-that actually make it to production and stay maintainable.
+- 🔭 **Frontend:** React, React Native / Expo, Next.js, Vue 3, Nuxt
+- ⚙️ **Backend:** Node.js, NestJS, Express, REST & WebSockets
+- 🗄️ **Data:** PostgreSQL, Prisma, MongoDB, Redis
+- 🎨 **Styling:** Tailwind CSS, clean & accessible UI
+- 🌱 **Currently learning:** SEO optimization, SSR & system design
+- 💼 **Looking for:** Full-Stack / React Native / Next.js / Node.js roles
+- 🌍 **Location:** Kyrgyzstan — remote worldwide
+- ✉️ **Contact:** [@johny_fullstack_dev](https://t.me/johny_fullstack_dev) · [digmen68@gmail.com](mailto:digmen68@gmail.com)
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nuxt-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+</p>
+
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
+### Tools & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+---
+
+### 🧩 My Stack, Organized
 
 ```ts
-const johny = {
-  role:     "Full-Stack Developer",
-  stack:    ["TypeScript", "React", "Next.js", "Node.js", "NestJS"],
-  loves:    ["clean UI", "type safety", "automation"],
-  learning: ["System Design", "SSR & SEO"],
-  motto:    "Make it work, make it clean, make it fast.",
-} as const;
+const johny: FullStackDeveloper = {
+  languages: ["TypeScript", "JavaScript", "HTML", "CSS", "SQL"],
+  frontend:  ["React", "React Native / Expo", "Next.js", "Vue 3", "Nuxt", "Tailwind CSS"],
+  backend:   ["Node.js", "NestJS", "Express", "REST", "WebSockets"],
+  databases: ["PostgreSQL", "Prisma", "MongoDB", "Redis"],
+  devops:    ["Docker", "Git", "CI/CD"],
+  learning:  ["System Design", "SEO Optimization", "SSR"],
+  focus:     "Shipping clean, scalable apps from UI to API 🚀",
+};
 ```
 
-</td>
-<td width="42%" valign="top">
+---
 
-### ⚡ Quick facts
-
-|  |  |
-|:--|:--|
-| 🧭 | **2+ yrs** commercial |
-| 🎯 | Frontend → Full-Stack |
-| 🕐 | Remote · async-friendly |
-| 🌐 | EN · RU |
-| 💬 | Fast replies on Telegram |
-| 📬 | Open to **new work** |
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=digmen&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=340" width="100%" alt="streak"/>
-</div>
-
-</td>
-</tr>
-</table>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                         TECH STACK                            ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-## 🧰 Tech Stack
-
-<table align="center">
-  <tr>
-    <td align="center"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,js,html,css,python&theme=dark" alt="languages"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,nuxtjs,tailwind,redux&theme=dark" alt="frontend"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Mobile</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,expo&theme=dark" alt="mobile"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,graphql&theme=dark" alt="backend"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Data</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" alt="data"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma,postman&theme=dark" alt="tools"/></td>
-  </tr>
-</table>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    WHAT I CAN BUILD (details)                 ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-## 🛠️ What I can build
-
-<details open>
-<summary><b>🖥️  Frontend & Web apps</b></summary>
-
-- SPA & SSR/SSG apps with **React / Next.js** and **Vue / Nuxt**
-- Design-system-driven UI with **Tailwind**, fully **responsive & accessible**
-- State with **Redux / Zustand / TanStack Query**, forms, i18n, dark mode
-- Performance: code-splitting, image optimization, Core Web Vitals
-
-</details>
-
-<details>
-<summary><b>📱  Mobile (React Native / Expo)</b></summary>
-
-- Cross-platform apps with **Expo**, navigation, native modules
-- Push notifications, deep links, OTA updates, store publishing
-
-</details>
-
-<details>
-<summary><b>⚙️  Backend & APIs</b></summary>
-
-- REST & real-time (**WebSockets**) APIs with **Node.js / NestJS / Express**
-- **Prisma** ORM, **PostgreSQL / MongoDB / Redis**, migrations & seeding
-- Auth (JWT / OAuth), validation, background jobs, **Docker** deployment
-
-</details>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                          GITHUB STATS                         ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-## 📊 GitHub in numbers
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats-ixr9.vercel.app/api?username=digmen&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true&title_color=14A800&icon_color=14A800" alt="stats"/>
-  <img height="170" src="https://github-readme-stats-ixr9.vercel.app/api/top-langs/?username=digmen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=14A800&size_weight=0.5&count_weight=0.5" alt="top langs"/>
+  <img height="165" src="https://github-readme-stats-ixr9.vercel.app/api?username=digmen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats"/>
+  <img height="165" src="https://github-readme-stats-ixr9.vercel.app/api/top-langs/?username=digmen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=digmen&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=14A800&line=14A800&point=ffffff&area=true" alt="activity graph"/>
+  <img src="https://streak-stats.demolab.com/?user=digmen&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                            FOOTER                             ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-## 🤝 Let's work together
+---
 
 <div align="center">
-
-**Building a web or mobile product? Need a frontend that looks great and a backend that just works?**
-
-[![Say hi on Telegram](https://img.shields.io/badge/💬_Say_hi_on-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/johny_fullstack_dev)
-[![Hire on Upwork](https://img.shields.io/badge/💼_Hire_on-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01306c9da7c2af44c1?mp_source=share)
-
+  <em>💚 Let's build something great together — reach out on <a href="https://t.me/johny_fullstack_dev">Telegram</a> or <a href="https://www.upwork.com/freelancers/~01306c9da7c2af44c1?mp_source=share">Upwork</a>!</em>
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:14A800,50:0B6E2E,100:0D1117&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=20&fontColor=ffffff&fontAlignY=75&animation=fadeIn" alt="footer"/>
