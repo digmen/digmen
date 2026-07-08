@@ -65,9 +65,5 @@ class About extends Me {
 }
 ```
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=digmen&theme=dark&hide_border=true" alt="GitHub Streak"/> 
-  <br/> <img src="https://github-readme-stats.vercel.app/api?username=digmen&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
-</div>  
-
 
 
