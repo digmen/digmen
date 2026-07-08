@@ -125,7 +125,11 @@ const johny: FullStackDeveloper = {
 
 ## 🚀 Featured Projects
 
-<!-- Replace repo-1 … repo-4 with your actual repository names -->
+<!--
+  👉 TO ACTIVATE: replace repo-1 … repo-4 with your real repository names,
+  then delete this comment wrapper (the lines with <!-​- and -​->).
+  Until real repo names are set, these cards render as broken images, so they're hidden.
+
 <div align="center">
   <a href="https://github.com/digmen/repo-1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=digmen&repo=repo-1&theme=tokyonight&hide_border=true" alt="Project 1"/>
@@ -142,6 +146,9 @@ const johny: FullStackDeveloper = {
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=digmen&repo=repo-4&theme=tokyonight&hide_border=true" alt="Project 4"/>
   </a>
 </div>
+-->
+
+> ⚙️ _Coming soon — project cards will appear here._
 
 ---
 
