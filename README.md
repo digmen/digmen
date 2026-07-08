@@ -1,19 +1,19 @@
 <div align="right">
-  <a href="./README.md"><img src="https://img.shields.io/badge/English-555?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English"/></a>
-  <a href="./README.ru.md"><img src="https://img.shields.io/badge/Русский-14A800?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Русский"/></a>
+  <a href="./README.md"><img src="https://img.shields.io/badge/English-14A800?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English"/></a>
+  <a href="./README.ru.md"><img src="https://img.shields.io/badge/Русский-555?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Русский"/></a>
 </div>
 
 <div id="header" align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=14A800&center=true&vCenter=true&width=600&lines=Привет!+Я+Johny+%F0%9F%91%8B;Full-Stack+разработчик;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;Создаю+веб+и+мобильные+приложения" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=14A800&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Johny+%F0%9F%91%8B;Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;Building+modern+web+%26+mobile+apps" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <p><em>Full-Stack разработчик — Frontend & Node.js Backend</em></p>
-  <p>🚀 Создаю современные, производительные веб- и мобильные приложения под ключ.</p>
-  <p>Открыт для удалённой работы: part-time & full-time 🌍</p>
+  <p><em>Full-Stack Developer — Frontend & Node.js Backend</em></p>
+  <p>🚀 I build modern, high-performance web & mobile applications end-to-end.</p>
+  <p>Open for remote, part-time & full-time opportunities 🌍</p>
 </div>
 
-<p align="center">🎧 Сейчас слушаю:</p>
+<p align="center">🎧 Vibing to:</p>
 <p align="center">
   <a href="https://open.spotify.com/"><img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify now playing" width="320"/></a>
 </p>
@@ -36,29 +36,29 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=digmen&style=for-the-badge&color=14A800" alt="Просмотры профиля"/>
+  <img src="https://komarev.com/ghpvc/?username=digmen&style=for-the-badge&color=14A800" alt="Profile views"/>
 </div>
 
 ---
 
-## 👨‍💻 Обо мне
+## 👨‍💻 About Me
 
-Я **Full-Stack разработчик**, который ведёт продукт от идеи до продакшена — делаю чистый отзывчивый UI на фронтенде и надёжные масштабируемые API на бэкенде с **Node.js / NestJS**.
+I'm a **Full-Stack Developer** who takes products from idea to production — crafting clean, responsive UIs on the frontend and building robust, scalable APIs on the backend with **Node.js / NestJS**.
 
 - 🔭 **Frontend:** React, React Native / Expo, Next.js, Vue 3, Nuxt
 - ⚙️ **Backend:** Node.js, NestJS, Express, REST & WebSockets
-- 🗄️ **Данные:** PostgreSQL, Prisma, MongoDB, Redis
-- 🎨 **Стилизация:** Tailwind CSS, чистый и доступный UI
-- 🌱 **Сейчас изучаю:** SEO-оптимизацию, SSR и системный дизайн
-- 💼 **Ищу:** Full-Stack / React Native / Next.js / Node.js
-- 🌍 **Локация:** Кыргызстан — удалённо по всему миру
-- ✉️ **Контакты:** [@johny_fullstack_dev](https://t.me/johny_fullstack_dev) · [digmen68@gmail.com](mailto:digmen68@gmail.com)
+- 🗄️ **Data:** PostgreSQL, Prisma, MongoDB, Redis
+- 🎨 **Styling:** Tailwind CSS, clean & accessible UI
+- 🌱 **Currently learning:** SEO optimization, SSR & system design
+- 💼 **Looking for:** Full-Stack / React Native / Next.js / Node.js roles
+- 🌍 **Location:** Kyrgyzstan — remote worldwide
+- ✉️ **Contact:** [@johny_fullstack_dev](https://t.me/johny_fullstack_dev) · [digmen68@gmail.com](mailto:digmen68@gmail.com)
 
 ---
 
-## 🛠️ Технологии
+## 🛠️ Tech Stack
 
-### Языки
+### Languages
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -88,14 +88,14 @@
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 </p>
 
-### Базы данных
+### Databases
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
-### Инструменты & DevOps
+### Tools & DevOps
 <p>
   <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -107,7 +107,7 @@
 
 ---
 
-### 🧩 Мой стек, кратко
+### 🧩 My Stack, Organized
 
 ```ts
 const johny: FullStackDeveloper = {
@@ -117,51 +117,51 @@ const johny: FullStackDeveloper = {
   databases: ["PostgreSQL", "Prisma", "MongoDB", "Redis"],
   devops:    ["Docker", "Git", "CI/CD"],
   learning:  ["System Design", "SEO Optimization", "SSR"],
-  focus:     "Чистые, масштабируемые приложения от UI до API 🚀",
+  focus:     "Shipping clean, scalable apps from UI to API 🚀",
 };
 ```
 
 ---
 
-## 🚀 Избранные проекты
+## 🚀 Featured Projects
 
-<!-- Замени repo-1 … repo-4 на реальные названия твоих репозиториев -->
+<!-- Replace repo-1 … repo-4 with your actual repository names -->
 <div align="center">
   <a href="https://github.com/digmen/repo-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=digmen&repo=repo-1&theme=tokyonight&hide_border=true" alt="Проект 1"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=digmen&repo=repo-1&theme=tokyonight&hide_border=true" alt="Project 1"/>
   </a>
   <a href="https://github.com/digmen/repo-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=digmen&repo=repo-2&theme=tokyonight&hide_border=true" alt="Проект 2"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=digmen&repo=repo-2&theme=tokyonight&hide_border=true" alt="Project 2"/>
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/digmen/repo-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=digmen&repo=repo-3&theme=tokyonight&hide_border=true" alt="Проект 3"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=digmen&repo=repo-3&theme=tokyonight&hide_border=true" alt="Project 3"/>
   </a>
   <a href="https://github.com/digmen/repo-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=digmen&repo=repo-4&theme=tokyonight&hide_border=true" alt="Проект 4"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=digmen&repo=repo-4&theme=tokyonight&hide_border=true" alt="Project 4"/>
   </a>
 </div>
 
 ---
 
-## 📊 Статистика GitHub
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=digmen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=ru" alt="Статистика"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digmen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=ru" alt="Топ языков"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=digmen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digmen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=digmen&theme=tokyonight&hide_border=true&locale=ru" alt="Стрик GitHub"/>
+  <img src="https://streak-stats.demolab.com/?user=digmen&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=digmen&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Трофеи"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=digmen&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophies"/>
 </div>
 
 ---
 
 <div align="center">
-  <em>💚 Давайте создадим что-то классное вместе — пишите в <a href="https://t.me/johny_fullstack_dev">Telegram</a> или <a href="https://www.upwork.com/freelancers/~01306c9da7c2af44c1?mp_source=share">Upwork</a>!</em>
+  <em>💚 Let's build something great together — reach out on <a href="https://t.me/johny_fullstack_dev">Telegram</a> or <a href="https://www.upwork.com/freelancers/~01306c9da7c2af44c1?mp_source=share">Upwork</a>!</em>
 </div>
