@@ -1,4 +1,4 @@
-<div id="header" align="center">
+[<div id="header" align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=14A800&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Johny+%F0%9F%91%8B;Full-Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;Building+modern+web+%26+mobile+apps" alt="Typing SVG" />
 </div>
 
@@ -138,3 +138,4 @@ const johny: FullStackDeveloper = {
 <div align="center">
   <em>💚 Let's build something great together — reach out on <a href="https://t.me/johny_fullstack_dev">Telegram</a> or <a href="https://www.upwork.com/freelancers/~01306c9da7c2af44c1?mp_source=share">Upwork</a>!</em>
 </div>
+](https://github.com/digmen)
