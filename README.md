@@ -123,35 +123,6 @@ const johny: FullStackDeveloper = {
 
 ---
 
-## 🚀 Featured Projects
-
-<!--
-  👉 TO ACTIVATE: replace repo-1 … repo-4 with your real repository names,
-  then delete this comment wrapper (the lines with <!-​- and -​->).
-  Until real repo names are set, these cards render as broken images, so they're hidden.
-
-<div align="center">
-  <a href="https://github.com/digmen/repo-1">
-    <img src="https://github-readme-stats-ixr9.vercel.app/api/pin/?username=digmen&repo=repo-1&theme=tokyonight&hide_border=true" alt="Project 1"/>
-  </a>
-  <a href="https://github.com/digmen/repo-2">
-    <img src="https://github-readme-stats-ixr9.vercel.app/api/pin/?username=digmen&repo=repo-2&theme=tokyonight&hide_border=true" alt="Project 2"/>
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/digmen/repo-3">
-    <img src="https://github-readme-stats-ixr9.vercel.app/api/pin/?username=digmen&repo=repo-3&theme=tokyonight&hide_border=true" alt="Project 3"/>
-  </a>
-  <a href="https://github.com/digmen/repo-4">
-    <img src="https://github-readme-stats-ixr9.vercel.app/api/pin/?username=digmen&repo=repo-4&theme=tokyonight&hide_border=true" alt="Project 4"/>
-  </a>
-</div>
--->
-
-> ⚙️ _Coming soon — project cards will appear here._
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -161,10 +132,6 @@ const johny: FullStackDeveloper = {
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=digmen&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=digmen&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophies"/>
 </div>
 
 ---
